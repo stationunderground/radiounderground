@@ -1,0 +1,41 @@
+<Asx Version = "3.0"> 
+<MOREINFO HREF="http://www.radiounderground.giize.com" />
+<COPYRIGHT>(c)2022. http://www.radiounderground.giize.com</COPYRIGHT>
+<ABSTRACT>Powered by radiounderground.giize.com</ABSTRACT>
+<Param Name = "AllowShuffle" Value = "no" />
+<Param Name = "AutoPlay" Value = "YES" />
+
+<Title >Vous écoutez Radio Underground Vintage.</Title>
+
+<Entry>
+
+<Param Name = "Bitrate" Value = "96040" />
+
+<Duration value ="00:00:0.000" />
+
+<Param Name = "AutoPlay" Value = "YES" />
+
+<Param Name = "FileSize" Value = "2321" />
+
+<Param Name = "Is_Protected" Value = "YES" />
+
+<Param Name = "Is_Trusted" Value = "YES" />
+
+<Param Name = "IsVBR" Value = "YES" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "MediaType" Value = "video" />
+
+<Param Name = "type" Value = "broadcast" />
+
+<Param Name = "WMFSDKNeeded" Value = "0.0.0.0000" />
+
+<Param Name = "WMFSDKVersion" Value = "9.00.00.2980" />
+
+<Ref href = "http://titre.giize.com:8010"/>
+
+
+</Entry>
+
+</Asx>
