@@ -24,7 +24,7 @@ $(function(){
 			message += Secondes + " Seconde" + ( Secondes==1 ? '':'s' ) + "  <br />";
 			
 			if(Christmas){
-				message += "Avant Noël 2022 !<br /> Bienvenue sur Radio Underground";
+				message += "Avant No&euml;l 2022 !<br /> Bienvenue sur Radio Underground";
 
 				}
 
